@@ -12,6 +12,6 @@ How To Run ?
 
 clone it on your computer
 
-run pip install -r requirements.txt inside \face_recognition_with_Django directory
+run pip install -r req.txt inside \face_recognition_with_Django directory
 
 Run python manage.py runserver inside \face_recognition_with_Django directory to run the project
